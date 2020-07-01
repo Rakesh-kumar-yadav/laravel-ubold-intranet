@@ -18,6 +18,11 @@ Database migrate and seed
 $ php artisan migrate --seed
 ```
 
+Storage link
+```sh
+$ php artisan storage:link
+```
+
 Run serve
 ```sh
 $ php artisan serve
