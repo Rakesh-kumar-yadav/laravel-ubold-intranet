@@ -1,5 +1,5 @@
 # laravel-intranet-website
-This is intranet website using Laravel.
+its intranet website using Laravel.
 
 ## Get Started
 
